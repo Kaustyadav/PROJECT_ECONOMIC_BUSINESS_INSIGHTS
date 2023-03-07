@@ -76,6 +76,7 @@ Once you have installed all the above software, you can run the IPYNB file in Ju
 **Project Screenshots** 
 
 Heatmap Data Visualization
+<img width="589" alt="Screen Shot 2023-03-07 at 11 41 17 AM" src="https://user-images.githubusercontent.com/115778006/223335857-5ce62781-e526-4869-a2c5-3058ffebf6bf.png">
 
 Lineplots
 <img width="1010" alt="Screen Shot 2023-03-06 at 11 14 25 PM" src="https://user-images.githubusercontent.com/115778006/223335409-dcbe3c33-9c26-484d-bf91-83a0f9bda667.png">
@@ -85,6 +86,7 @@ Subplots
 
 
 Scatterplot
+<img width="453" alt="Screen Shot 2023-03-07 at 11 42 19 AM" src="https://user-images.githubusercontent.com/115778006/223335809-8df6bf1c-2eb8-47cc-a33c-71b9fd493ac8.png">
 
 **Contact Information**
 
