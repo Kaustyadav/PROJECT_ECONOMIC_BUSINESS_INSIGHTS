@@ -1,4 +1,6 @@
-﻿**PROJECT\_ECONOMIC\_BUSINESS\_INSIGHTS FROM AFRICAN\_CRISIS\_DATASET**
+# PROJECT ECONOMIC BUSINESS INSIGHTS FROM AFRICAN CRISIS DATASET
+
+
 
 
 **General Description**
@@ -86,6 +88,7 @@ Subplots
 
 
 Scatterplot
+
 <img width="453" alt="Screen Shot 2023-03-07 at 11 42 19 AM" src="https://user-images.githubusercontent.com/115778006/223335809-8df6bf1c-2eb8-47cc-a33c-71b9fd493ac8.png">
 
 **Contact Information**
